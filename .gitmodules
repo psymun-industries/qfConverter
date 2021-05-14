@@ -1,0 +1,3 @@
+[submodule "COVIDVaccinePatientSlips"]
+	path = COVIDVaccinePatientSlips
+	url = https://github.com/DrMikeyS/COVIDVaccinePatientSlips.git
